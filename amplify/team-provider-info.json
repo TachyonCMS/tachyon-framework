@@ -16,7 +16,14 @@
         "tachyoncognito": {}
       },
       "function": {
-        "tachyoncognitoPostConfirmation": {}
+        "tachyoncognitoPostConfirmation": {
+          "deploymentBucketName": "amplify-tachyonframework-dev-171000-deployment",
+          "s3Key": "amplify-builds/tachyoncognitoPostConfirmation-484b5343665a4345434b-build.zip"
+        },
+        "AdminQueries03131f3c": {
+          "deploymentBucketName": "amplify-tachyonframework-dev-171000-deployment",
+          "s3Key": "amplify-builds/AdminQueries03131f3c-5271565a624272737971-build.zip"
+        }
       }
     }
   }
