@@ -10,6 +10,14 @@
       "StackName": "amplify-tachyonframework-dev-171000",
       "StackId": "arn:aws:cloudformation:us-east-1:934684196725:stack/amplify-tachyonframework-dev-171000/04234d70-db93-11eb-b233-0a9de142f3dd",
       "AmplifyAppId": "dnecmxn1x8ypt"
+    },
+    "categories": {
+      "auth": {
+        "tachyoncognito": {}
+      },
+      "function": {
+        "tachyoncognitoPostConfirmation": {}
+      }
     }
   }
 }

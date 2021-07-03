@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "tachyoncognito",
+  "functionName": "tachyoncognitoPostConfirmation",
+  "resourceName": "tachyoncognitoPostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/home/brian/.nvm/versions/node/v14.17.0/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "tachyoncognitoPostConfirmation",
+  "skipEdit": true,
+  "enableCors": false
+}
