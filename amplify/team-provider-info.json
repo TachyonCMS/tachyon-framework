@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tachyonframework-dev-171000-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934684196725:role/amplify-tachyonframework-dev-171000-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934684196725:role/amplify-tachyonframework-dev-171000-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tachyonframework-dev-171000-deployment",
+      "UnauthRoleName": "amplify-tachyonframework-dev-171000-unauthRole",
+      "StackName": "amplify-tachyonframework-dev-171000",
+      "StackId": "arn:aws:cloudformation:us-east-1:934684196725:stack/amplify-tachyonframework-dev-171000/04234d70-db93-11eb-b233-0a9de142f3dd",
+      "AmplifyAppId": "dnecmxn1x8ypt"
+    }
+  }
+}
